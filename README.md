@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ☕ I'm a project manager and a programmer.
+- ☕ I'm a certified project manager ([PMP](https://virgilioolivardia.github.io/CV/images/pmp-certificate.pdf) and [PMI-ACP](https://virgilioolivardia.github.io/CV/images/pmi-acp-certificate.pdf)) and a programmer.
 - 🔭 I’m currently improving my programming skills.
 - 👨‍💻 Yo can find my CV [here](https://virgilioolivardia.github.io/CV/).
