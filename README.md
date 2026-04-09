@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - ☕ I'm a project manager and a programmer.
-- 🔭 I’m currently improving my programming habilities.
+- 🔭 I’m currently improving my programming skills.
+- 👨‍💻 Yo can find my CV [here](https://virgilioolivardia.github.io/CV/).
